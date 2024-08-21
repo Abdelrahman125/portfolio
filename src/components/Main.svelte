@@ -3,7 +3,7 @@
 
     let steps = [
         {
-            name: "OWASP Juice Shop",
+            name: "Shop",
             icon: "fa-solid fa-martini-glass",
             description:
                 "",
@@ -25,19 +25,19 @@
     let benefits = [
         {
             metric: "10x",
-            name: "Bug Bounty Hunter",
+            name: "Front End Web Developer",
             description:
-                "I’ve successfully reported 0 of critical vulnerabilities, earning recognition and rewards from HackerOne, Bugcrowd",
+                "Using React Js, I am able to create fast and responsive web pages",
         },
         {
-            name: "CTF Player",
+            name: "Back End Web Developer",
             description:
-                "ranked on top 99.9% at TryHackMe and HackTheBox",
+                "ASP.NET dev, making robust, scalable, secure web applications",
         },
         {
             name: "Pentration Tester",
             description:
-                "Did pentest for my friend, I destroyed his database and he started cursing me",
+                "Did security research for some websites and discovered some interesting vulnerabilities",
         },
     ];
 </script>
@@ -53,7 +53,7 @@
             <h2 class="font-semibold text-4xl sm:text-5xl md:text-6xl">
                 Hi! I'm <span class="poppins text-violet-400">Abdelrahman</span> Alnagar
                 <br />
-                <span class="poppins text-violet-400">Penetration</span> Tester
+                <span class="poppins text-violet-400">Full Stack</span> Web Developer
             </h2>
             <p class="text-base sm:text-lg md:text-xl">
                 My motive is breaking complex systems
@@ -96,14 +96,12 @@
         <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 lg:gap-10">
             <Step step={steps[0]}>
                 <p>
-                    Conducted comprehensive security assessments of the <span class="text-violet-400">OWASP Juice Shop</span>, a modern vulnerable web application used for training, demonstrating, and testing web application security tools.
-                    Identified and exploited various vulnerabilities, including but not limited to <span class="text-violet-400">SQL Injection, Cross-Site Scripting</span> (<span class="text-violet-400">XSS</span>), <span class="text-violet-400">Broken Authentication</span>, and Insecure Direct Object References (<span class="text-violet-400">IDOR</span>).                    
+                      I developed a fully functional website that offers users a seamless shopping experience. The website allows customers to browse products, add items to their cart, and complete purchases through a secure checkout process.
                 </p>
             </Step>
             <Step step={steps[1]}>
                 <p>
-                    Conducted an in-depth security assessment of a large-scale e-commerce web application to identify and mitigate potential security vulnerabilities.
-                    Discovered critical vulnerabilities such as Cross-Site Request Forgery (<span class="text-violet-400">CSRF</span>), Insecure Deserialization, Server-Side Request Forgery (<span class="text-violet-400">SSRF</span>), and <span class="text-violet-400">Security Misconfigurations</span>.
+                I developed a robust and scalable backend for an e-commerce platform designed to handle high traffic, support multiple payment gateways, and provide seamless integration with various third-party services. The system is optimized for performance and security, ensuring a smooth shopping experience for users.   
                 </p>
             </Step>
             <Step step={steps[2]}>
@@ -111,7 +109,7 @@
                     <br>
                     <br>
                     <br>
-                  maybe
+                  soon
                 </p>
             </Step>
         </div>
