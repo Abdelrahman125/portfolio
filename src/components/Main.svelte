@@ -53,7 +53,7 @@
             <h2 class="font-semibold text-4xl sm:text-5xl md:text-6xl">
                 Hi! I'm <span class="poppins text-violet-400">Abdelrahman</span> Alnagar
                 <br />
-                <span class="poppins text-violet-400">Full Stack</span> Web Developer
+                
             </h2>
             <p class="text-base sm:text-lg md:text-xl">
                 My motive is breaking complex systems
