@@ -27,15 +27,15 @@
             metric: "10x",
             name: "Front End Web Developer",
             description:
-                "Using React Js, I am able to create fast and responsive web pages",
+                "Using React Js I am able to create fast and responsive web pages",
         },
         {
             name: "Back End Web Developer",
             description:
-                "ASP.NET dev, making robust, scalable, secure web applications",
+                "ASP.NET dev making robust, scalable and secure web applications",
         },
         {
-            name: "Pentration Tester",
+            name: "Penetration Tester",
             description:
                 "Did security research for some websites and discovered some interesting vulnerabilities",
         },
