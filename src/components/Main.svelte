@@ -55,16 +55,13 @@
                 <br />
                 
             </h2>
-            <p class="text-base sm:text-lg md:text-xl">
-                My motive is breaking complex systems
-            </p>
             <button
                 class="blueShadow mx-auto lg:mr-auto lg:ml-0 text-base sm:text-lg md:text-xl poppins relative overflow-hidden px-6 py-3 group rounded-full bg-white text-slate-950"
             >
                 <div
                     class="absolute top-0 right-full w-full h-full bg-violet-400 opacity-20 group-hover:translate-x-full z-0 duration-200"
                 />
-                <h4 class="relative z-9">Get in touch &rarr;</h4>
+                <a href="https://wa.me/+201065117821"><h4 class="relative z-9">Get in touch &rarr;</h4><a/>
             </button>
         </div>
         <div class="relative shadow-2xl grid place-items-center">
